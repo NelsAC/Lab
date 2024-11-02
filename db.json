@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "uid": "1",
+      "name": "Product 1",
+      "price": 100,
+      "description": "Description 1",
+      "id": "7afb"
+    },
+    {
+      "uid": "2",
+      "name": "Product 2",
+      "price": 200,
+      "description": "Description 2",
+      "id": "1f5c"
+    },
+    {
+      "uid": "3",
+      "name": "Product 3",
+      "price": 300,
+      "description": "Description 3",
+      "id": "ab22"
+    },
+    {
+      "uid": "643209429",
+      "name": "Milk",
+      "price": 366,
+      "description": "This is a new producta",
+      "id": "8e0d"
+    },
+    {
+      "id": "d12b",
+      "uid": "3701349605",
+      "name": "asd",
+      "price": 21,
+      "description": "sdad"
+    }
+  ]
+}
